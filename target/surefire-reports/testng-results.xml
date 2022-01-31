@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-07T13:39:04 PST" name="Suite" finished-at="2022-01-07T13:39:19 PST" duration-ms="14216">
+  <suite started-at="2022-01-07T15:10:05 PST" name="Suite" finished-at="2022-01-07T15:10:17 PST" duration-ms="12037">
     <groups>
     </groups>
-    <test started-at="2022-01-07T13:39:04 PST" name="Test" finished-at="2022-01-07T13:39:19 PST" duration-ms="14216">
+    <test started-at="2022-01-07T15:10:05 PST" name="Test" finished-at="2022-01-07T15:10:17 PST" duration-ms="12037">
       <class name="com.orangeHRM.TestCases.TC_Login_001">
-        <test-method is-config="true" signature="setUpBrowser(java.lang.String)[pri:0, instance:com.orangeHRM.TestCases.TC_Login_001@47f9738]" started-at="2022-01-07T13:39:04 PST" name="setUpBrowser" finished-at="2022-01-07T13:39:10 PST" duration-ms="6115" status="PASS">
+        <test-method is-config="true" signature="setUpBrowser(java.lang.String)[pri:0, instance:com.orangeHRM.TestCases.TC_Login_001@21a21c64]" started-at="2022-01-07T15:10:05 PST" name="setUpBrowser" finished-at="2022-01-07T15:10:12 PST" duration-ms="6197" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBrowser -->
-        <test-method signature="login()[pri:0, instance:com.orangeHRM.TestCases.TC_Login_001@47f9738]" started-at="2022-01-07T13:39:10 PST" name="login" finished-at="2022-01-07T13:39:15 PST" duration-ms="4859" status="PASS">
+        <test-method signature="login()[pri:0, instance:com.orangeHRM.TestCases.TC_Login_001@21a21c64]" started-at="2022-01-07T15:10:12 PST" name="login" finished-at="2022-01-07T15:10:14 PST" duration-ms="2433" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRM.TestCases.TC_Login_001@47f9738]" started-at="2022-01-07T13:39:15 PST" name="tearDown" finished-at="2022-01-07T13:39:19 PST" duration-ms="3204" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRM.TestCases.TC_Login_001@21a21c64]" started-at="2022-01-07T15:10:14 PST" name="tearDown" finished-at="2022-01-07T15:10:17 PST" duration-ms="3264" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

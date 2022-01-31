@@ -1,4 +1,5 @@
 C:\Users\vedas\eclipse-workspace\OrangeHRM_Framework\src\test\java\com\orangeHRM\TestCases\BaseClass.java
 C:\Users\vedas\eclipse-workspace\OrangeHRM_Framework\src\test\java\com\orangeHRM\TestCases\TC_Login_001.java
 C:\Users\vedas\eclipse-workspace\OrangeHRM_Framework\src\test\java\com\orangeHRM\PageObjects\LoginPage.java
-C:\Users\vedas\eclipse-workspace\OrangeHRM_Framework\src\test\java\com\orangeHRM\TestCases\LoginTestDemo.java
+C:\Users\vedas\eclipse-workspace\OrangeHRM_Framework\src\test\java\com\orangeHRM\Utilities\Readconfig.java
+C:\Users\vedas\eclipse-workspace\OrangeHRM_Framework\src\test\java\com\orangeHRM\Utilities\Reporting.java

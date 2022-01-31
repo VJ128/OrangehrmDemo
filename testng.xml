@@ -4,10 +4,11 @@
 <listeners>
 <listener class-name="com.orangeHRM.Utilities.Reporting" />
 </listeners>
-  <test thread-count="5" name="Test">
+  <test  name="Test">
   <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.orangeHRM.TestCases.TC_Login_001"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> <!-- Test -->  
+ 
+ </suite> <!-- Suite -->

@@ -21,8 +21,8 @@ import com.orangeHRM.Utilities.Readconfig;
 public class BaseClass {
 	Readconfig rc=new Readconfig();
 	public String baseURL = rc.getBaseURL();
-	public String username = rc.getUserName();
-	public String password = rc.getPassword();
+	//public String username = rc.getUserName();
+	//public String password = rc.getPassword();
 	public String chromepath = rc.getChromePath();
 	//System.getProperty("user.dir") + "/Drivers/chromedriver.exe"
 	public String iepath = "";

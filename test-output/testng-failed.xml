@@ -7,7 +7,7 @@
       <class name="com.orangeHRM.TestCases.TC_Login_001">
         <methods>
           <include name="setUpBrowser"/>
-          <include name="login"/>
+          <include name="login" invocation-numbers="0 1 2 3"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.orangeHRM.TestCases.TC_Login_001 -->
